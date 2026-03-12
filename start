@@ -1,0 +1,6 @@
+/home/lab/.pico-sdk/picotool/2.2.0-a4/picotool/picotool load /home/lab/Desktop/PicoDVI-master/software/build/apps/hello_dvi/hello_dvi.elf -fx
+
+obserwowanie joysticka:
+minicom -b 115200 -D /dev/ttyACM0
+
+
