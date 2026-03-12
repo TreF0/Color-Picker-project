@@ -53,7 +53,7 @@ The project utilizes the dual-core architecture of the RP2040:
 
 The core logic of this application, including joystick handling and color processing, can be found here:
 
-📍 **Main Application Logic:** [`PicoDVI-master/software/apps/hello_dvi/main.c`](Color-Picker-project-main/software/apps/hello_dvi/main.c)
+📍 **Main Application Logic:** [`Color-Picker-project-main\Color-Picker-project-main\software\apps\hello_dvi/main.c`](Color-Picker-project-main\Color-Picker-project-main\software\apps\hello_dvi/main.c)
 
 ---
 
